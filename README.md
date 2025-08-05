@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on **Collage Project** (a Flutter + Firebase app)
 - 🌱 Learning **AI agents, full-stack web dev, and Figma UI design**
 - 💬 Ask me about **Flutter, Firebase, Python, Flask, AI APIs**
-- 📫 How to reach me: **[]**
-- ⚡ Fun fact: I love building JARVIS-style tools
+- 📫 How to reach me: ****
+- ⚡ Fun fact: I love building JARVIS-style tools:https://ai-assistant-33n3.onrender.com/
 
 ---
 
