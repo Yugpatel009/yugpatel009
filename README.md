@@ -11,7 +11,7 @@
 - 🌱 Learning **AI agents, full-stack web dev, and Figma UI design**
 - 💬 Ask me about **Flutter, Firebase, Python, Flask, AI APIs**
 - 📫 How to reach me: ****
-- ⚡ Fun fact: I love building JARVIS-style tools:https://ai-assistant-33n3.onrender.com/
+- ⚡ Fun fact: I love building JARVIS-style tools:<a href="https://ai-assistant-33n3.onrender.com/" style="text-decoration: none; color: white;">🤖 Jarvis</a>
 
 ---
 
