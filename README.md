@@ -1,4 +1,5 @@
-# YugKansagara
+# Yug Kansagara
+
 <h1 align="center">Hi, I'm Yug 👋</h1>
 
 <p align="center">
@@ -7,11 +8,12 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Collage Project** (a Flutter + Firebase app)
+- 🔭 I’m currently working on **College Project** (Flutter + Firebase app)
 - 🌱 Learning **AI agents, full-stack web dev, and Figma UI design**
 - 💬 Ask me about **Flutter, Firebase, Python, Flask, AI APIs**
-- 📫 How to reach me: ****
-- ⚡ Fun fact: I love building JARVIS-style tools:<a href="https://ai-assistant-33n3.onrender.com/" style="text-decoration: none; color: white;">🤖 Jarvis</a>
+- 📫 How to reach me: *[Add your email or socials here]*
+- ⚡ Fun fact: I love building JARVIS-style tools:  
+  <a href="https://ai-assistant-33n3.onrender.com/" style="text-decoration: none; color: white;">🤖 Jarvis</a>
 
 ---
 
@@ -28,8 +30,7 @@
 
 ### 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugpatel009&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugpatel009&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugKanasagara&theme=tokyonight" />
 </p>
