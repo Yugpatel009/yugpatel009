@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **College Project** (Flutter + Firebase app)
+- 🔭 I’m currently working on **College Project** (ASP .NET + SQL Database)
 - 🌱 Learning **AI agents, full-stack web dev, and Figma UI design**
 - 💬 Ask me about **Flutter, Firebase, Python, Flask, AI APIs**
 - 📫 How to reach me: *[Add your email or socials here]*
