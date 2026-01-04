@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/YugKanasagara">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=frontend and backend+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
 </p>
 
