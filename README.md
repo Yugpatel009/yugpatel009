@@ -22,9 +22,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: **yourname@email.com**
-- 💼 LinkedIn: **https://linkedin.com/in/yourprofile**
-- 🌐 Portfolio: **https://yourportfolio.com**
+- 📧 Email: **yugkanasagara@gmail.com**
+- 💼 LinkedIn: **[https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/)**
+- 🌐 Portfolio: **[https://yourportfolio.com](https://yugprotfolio.vercel.app/)**
 
 ---
 
