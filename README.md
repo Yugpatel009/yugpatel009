@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/YugKanasagara">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Agent+Architect;Open+Source+Contributor;Flutter+%7C+Python+%7C+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Agent+Architect;React+%7C+Flutter+%7C+.NET;Python+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,8 +12,8 @@
 
 | 🔭 Working on | **College Project (ASP .NET + SQL Server)** |
 | :--- | :--- |
-| 🌱 Learning | **AI Agents, LangChain, & Figma Design** |
-| 💬 Ask me about | **Flutter, Firebase, Flask, AI APIs** |
+| 🌱 Learning | **React.js, AI Agents, & Figma Design** |
+| 💬 Ask me about | **Flutter, React, Firebase, Flask, AI APIs** |
 | ⚡ Fun fact | I'm building my own **JARVIS-style AI** |
 
 > [!TIP]
@@ -24,6 +24,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend & Design
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -42,7 +43,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugKanasagara&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight" height="170px" />
 </p>
 
 ---
