@@ -2,56 +2,57 @@
 
 <p align="center">
   <a href="https://github.com/YugKanasagara">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+%26+Backend+Developer;AI+Enthusiast;Open+Source+Contributor;Flutter+%7C+Python+%7C+.NET" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Agent+Architect;Open+Source+Contributor;Flutter+%7C+Python+%7C+.NET" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Look
 
-- 🔭 Currently working on a **College Project (ASP .NET + SQL Server)**
-- 🌱 Learning **AI Agents, Full-Stack Development, and Figma UI Design**
-- 💬 Ask me about **Flutter, Firebase, Python, Flask, AI APIs**
-- ⚡ Fun fact: I love building **JARVIS-style AI tools**
+| 🔭 Working on | **College Project (ASP .NET + SQL Server)** |
+| :--- | :--- |
+| 🌱 Learning | **AI Agents, LangChain, & Figma Design** |
+| 💬 Ask me about | **Flutter, Firebase, Flask, AI APIs** |
+| ⚡ Fun fact | I'm building my own **JARVIS-style AI** |
 
-🤖 **Jarvis Project**:  
-👉 https://agent-4.onrender.com/
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: **yugkanasagara@gmail.com**
-- 💼 LinkedIn: **[https://linkedin.com/in/yourprofile](https://www.linkedin.com/feed/)**
-- 🌐 Portfolio: **[https://yourportfolio.com](https://yugprotfolio.vercel.app/)**
+> [!TIP]
+> **Check out my latest AI Agent project:** > 👉 [Agent-4 / Jarvis](https://agent-4.onrender.com/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+### 💻 Frontend & Design
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🔧 Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugpatel009&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yugpatel009&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugKanasagara&theme=tokyonight" height="170px" />
 </p>
 
 ---
 
-⭐ *Always building, always learning.*
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:yugkanasagara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_ACTUAL_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://yugprotfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+</p>
+
+<p align="center"><b>⭐ Always building, always learning. ⭐</b></p>
