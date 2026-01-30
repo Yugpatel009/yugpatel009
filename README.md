@@ -67,10 +67,15 @@
 
 ## 📊 ENGINEERING METRICS
 
-<p align="center">
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://YOUR-VERCEL-URL.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true" />
+<<p align="center">
+  <img 
+    src="https://github-readme-stats-five-lake-60.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img 
+    src="https://github-readme-stats-five-lake-60.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
+
 
 
 
