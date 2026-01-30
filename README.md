@@ -1,59 +1,79 @@
-<h1 align="center">Hi, I'm Yug Kansagara 👋</h1>
+<h1 align="center">YUG KANSAGARA</h1>
+<h3 align="center">Full-Stack Developer • AI Agent Architect • UI-Focused Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/YugKanasagara">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Agent+Architect;React+%7C+Flutter+%7C+.NET;Python+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Building+AI-powered+Apps;React+%7C+Flutter+%7C+.NET;Python+%7C+Flask+%7C+Firebase;Jarvis-style+AI+Projects" />
+</p>
+
+<p align="center">
+  <a href="https://yugprotfolio.vercel.app/">Portfolio</a> •
+  <a href="mailto:yugkanasagara@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/YOUR_ACTUAL_ID">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 Quick Look
-
-| 🔭 Working on | **College Project (ASP .NET + SQL Server)** |
-| :--- | :--- |
-| 🌱 Learning | **React.js, AI Agents, & Figma Design** |
-| 💬 Ask me about | **Flutter, React, Firebase, Flask, AI APIs** |
-| ⚡ Fun fact | I'm building my own **JARVIS-style AI** |
-
-> [!TIP]
-> **Check out my latest AI Agent project:** > 👉 [Agent-4 / Jarvis](https://agent-4.onrender.com/)
+## 🧠 THE MISSION
+> I design and build **intelligent full-stack applications** with clean UI, scalable backend systems, and AI-powered automation.  
+> Currently focused on **AI Agents, modern frontend architectures, and developer experience**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ CURRENT FOCUS
+
+| 🎯 Area | 🚀 Details |
+|------|----------|
+| **Primary Project** | College Project – **ASP .NET + SQL Server** |
+| **Learning** | React.js • AI Agents • Figma UI |
+| **Expertise** | Flutter • Firebase • Flask • AI APIs |
+| **Side Quest** | Building my own **JARVIS-style AI Agent** |
+
+> 🔗 **Live Project:**  
+> 👉 https://agent-4.onrender.com/
+
+---
+
+## 🛠 TECHNICAL ECOSYSTEM
 
 ### 💻 Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
-### 🔧 Backend & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### 🔧 Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 FEATURED INNOVATIONS
+
+| Project | Description | Stack |
+|-------|------------|------|
+| **Agent-4 / Jarvis** | Autonomous AI assistant with task execution | Python • AI APIs |
+| **College ERP System** | Full-stack ASP.NET application | ASP.NET • SQL |
+| **Portfolio Site** | Responsive developer portfolio | React • Vercel |
+
+---
+
+## 📊 ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-<a href="mailto:yugkanasagara@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_ACTUAL_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://yugprotfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+<p align="center">
+  <b>⭐ Always building. Always learning. Always shipping. ⭐</b>
 </p>
-
-<p align="center"><b>⭐ Always building, always learning. ⭐</b></p>
