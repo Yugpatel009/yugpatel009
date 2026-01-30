@@ -68,9 +68,10 @@
 ## 📊 ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yugpatel009&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yugpatel009&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true" width="350" />
 </p>
+
 
 ---
 
