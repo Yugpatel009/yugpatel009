@@ -2,9 +2,9 @@
 
 # Yug Kansagara
 
-Building AI-powered applications, developer tools, and modern web experiences.
+Building AI-powered software, developer tools, and modern web applications.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+DRAKON+AI;React+•+ASP.NET+•+Python;Always+learning+something+new" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+DRAKON+AI;React+•+ASP.NET+•+Python;Always+Learning..." />
 
 </div>
 
@@ -13,17 +13,17 @@ Building AI-powered applications, developer tools, and modern web experiences.
 <table>
 <tr>
 
-<td width="38%" align="center">
+<td width="40%" align="center">
 
 <img src="avi-ascii.svg" width="320" alt="ASCII Portrait"/>
 
 </td>
 
-<td width="62%">
+<td width="60%">
 
 ```text
 yug@github
-──────────────────────────────────────────
+───────────────────────────────────────
 
 Name        Yug Kansagara
 Username    Yugpatel009
@@ -38,9 +38,9 @@ Focus
 
 Currently
 
-• Building DRAKON AI
+• DRAKON AI
 • College ERP
-• Exploring Local LLMs
+• Local AI Models
 
 Languages
 
@@ -53,7 +53,7 @@ Frontend
 
 React
 Flutter
-Tailwind CSS
+TailwindCSS
 
 Backend
 
@@ -64,6 +64,10 @@ Database
 
 SQL Server
 Firebase
+
+Editor
+
+VS Code
 
 Location
 
@@ -79,17 +83,17 @@ Gujarat, India
 
 # About
 
-I build full-stack applications with a strong focus on clean user interfaces, scalable backend systems, and AI-powered workflows.
+I enjoy building software that combines thoughtful user interfaces with scalable backend systems.
 
-My current work revolves around local AI, automation, modern frontend architecture, and developer experience.
+My current work focuses on AI-powered applications, local LLMs, developer tooling, and modern web technologies.
 
 ---
 
 # Featured Projects
 
-## DRAKON AI
+## 🤖 DRAKON AI
 
-An AI workspace powered by local language models with support for chat, image generation, and automation.
+Local AI assistant powered by Ollama.
 
 **Stack**
 
@@ -99,25 +103,21 @@ React • Python • Flask • Ollama
 
 ---
 
-## College ERP
+## 🎓 College ERP
 
-Academic management system built with ASP.NET and SQL Server.
-
-Features include authentication, dashboards, student management, attendance, and reporting.
+Academic management system built using ASP.NET and SQL Server.
 
 ---
 
-## Portfolio
+## 🌍 Portfolio
 
-Personal website showcasing projects, experiments, and UI work.
-
-🌐 https://yugprotfolio.vercel.app/
+https://yugprotfolio.vercel.app/
 
 ---
 
-# Technologies
+# Tech Stack
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,python,flask,nodejs,dotnet,firebase,mysql,git,github,vscode,figma,docker"/>
 
@@ -143,34 +143,52 @@ Personal website showcasing projects, experiments, and UI work.
 
 ---
 
-# Activity
+# Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&theme=github-dark&hide_border=true&area=true"/>
 
 </p>
 
 ---
 
-# Contact
+# GitHub Metrics
 
-Portfolio
+<p align="center">
 
-https://yugprotfolio.vercel.app
+<img src="https://github.com/Yugpatel009/Yugpatel009/blob/main/github-metrics.svg" />
 
-Email
+</p>
 
-yugkanasagara@gmail.com
+> **Note:** `github-metrics.svg` will only appear after you configure the GitHub Metrics Action to generate it.
 
-GitHub
+---
 
-https://github.com/Yugpatel009
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/Yugpatel009">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:yugkanasagara@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yugprotfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-*"Build software that people enjoy using."*
+*"Build software that solves real problems."*
+
+![](https://komarev.com/ghpvc/?username=Yugpatel009&style=for-the-badge&color=blue)
 
 </div>
