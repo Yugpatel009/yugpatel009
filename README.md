@@ -1,77 +1,58 @@
-<div align="center">
+<h1 align="center">Yug Kansagara</h1>
 
-# Yug Kansagara
+<h3 align="center">
+Full-Stack Developer • AI Applications • Modern Web Development
+</h3>
 
-Building AI-powered software, developer tools, and modern web applications.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;React+%7C+Flutter+%7C+ASP.NET;Python+%7C+Flask+%7C+Firebase;Currently+Building+DRAKON+AI" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+DRAKON+AI;React+•+ASP.NET+•+Python;Always+Learning..." />
+<p align="center">
 
-</div>
+<a href="https://yugprotfolio.vercel.app">Portfolio</a> •
+<a href="mailto:yugkanasagara@gmail.com">Email</a> •
+<a href="https://github.com/Yugpatel009">GitHub</a>
+
+</p>
 
 ---
 
 <table>
 <tr>
 
-<td width="40%" align="center">
+<td width="35%" align="center">
 
-<img src="avi-ascii.svg" width="320" alt="ASCII Portrait"/>
+<img src="avi-ascii.svg" width="280" alt="ASCII Portrait"/>
 
 </td>
 
-<td width="60%">
+<td width="65%">
 
 ```text
 yug@github
-───────────────────────────────────────
 
-Name        Yug Kansagara
-Username    Yugpatel009
+Name       : Yug Kansagara
+Username   : Yugpatel009
 
-Role        Full-Stack Developer
+Role       : Full-Stack Developer
 
 Focus
-
 • AI Applications
-• Web Engineering
+• Web Development
 • Developer Tools
 
-Currently
+Learning
+• React
+• ASP.NET
+• AI Agents
 
+Currently
 • DRAKON AI
 • College ERP
-• Local AI Models
-
-Languages
-
-Python
-JavaScript
-C#
-Dart
-
-Frontend
-
-React
-Flutter
-TailwindCSS
-
-Backend
-
-Flask
-ASP.NET
-
-Database
-
-SQL Server
-Firebase
-
-Editor
-
-VS Code
 
 Location
-
-Gujarat, India
+• Gujarat, India
 ```
 
 </td>
@@ -83,9 +64,20 @@ Gujarat, India
 
 # About
 
-I enjoy building software that combines thoughtful user interfaces with scalable backend systems.
+I enjoy building software that combines clean user interfaces, scalable backend systems, and practical AI integrations.
 
-My current work focuses on AI-powered applications, local LLMs, developer tooling, and modern web technologies.
+My current work focuses on AI-powered applications, developer tooling, and modern full-stack web development.
+
+---
+
+# Current Focus
+
+| Area | Working On |
+|------|------------|
+| 🚀 Main Project | DRAKON AI |
+| 📚 Learning | React • ASP.NET • AI Agents |
+| 💻 Backend | Flask • SQL Server |
+| 🎨 Frontend | React • Flutter |
 
 ---
 
@@ -93,23 +85,35 @@ My current work focuses on AI-powered applications, local LLMs, developer toolin
 
 ## 🤖 DRAKON AI
 
-Local AI assistant powered by Ollama.
+A local AI workspace powered by Ollama with chat, automation, and modern UI.
 
-**Stack**
+**Tech Stack**
 
 React • Python • Flask • Ollama
 
-🌐 https://drakon-mu.vercel.app/
+🌐 **Live Demo**
+
+https://drakon-mu.vercel.app/
 
 ---
 
 ## 🎓 College ERP
 
-Academic management system built using ASP.NET and SQL Server.
+Academic management system built with ASP.NET and SQL Server.
+
+Features:
+
+- Authentication
+- Dashboard
+- Student Management
+- Attendance
+- Reports
 
 ---
 
-## 🌍 Portfolio
+## 🌐 Portfolio
+
+Personal portfolio showcasing projects and UI experiments.
 
 https://yugprotfolio.vercel.app/
 
@@ -119,7 +123,7 @@ https://yugprotfolio.vercel.app/
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,python,flask,nodejs,dotnet,firebase,mysql,git,github,vscode,figma,docker"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,python,flask,dotnet,firebase,mysql,git,github,vscode,figma"/>
 
 </p>
 
@@ -129,9 +133,9 @@ https://yugprotfolio.vercel.app/
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yugpatel009&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yugpatel009&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel009&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel009&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -153,25 +157,9 @@ https://yugprotfolio.vercel.app/
 
 ---
 
-# GitHub Metrics
-
-<p align="center">
-
-<img src="https://github.com/Yugpatel009/Yugpatel009/blob/main/github-metrics.svg" />
-
-</p>
-
-> **Note:** `github-metrics.svg` will only appear after you configure the GitHub Metrics Action to generate it.
-
----
-
 # Connect
 
 <p align="center">
-
-<a href="https://github.com/Yugpatel009">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
 <a href="mailto:yugkanasagara@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -181,14 +169,16 @@ https://yugprotfolio.vercel.app/
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Yugpatel009">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-*"Build software that solves real problems."*
+⭐ Thanks for visiting my profile.
 
-![](https://komarev.com/ghpvc/?username=Yugpatel009&style=for-the-badge&color=blue)
-
-</div>
+</p>
