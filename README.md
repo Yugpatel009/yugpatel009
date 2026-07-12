@@ -1,131 +1,86 @@
 <div align="center">
 
-# Yug Kanasagara
+# 👋 Hey, I'm Yug Kanasagara
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Building+DRAKON+AI;React+%7C+Flutter+%7C+Python;Always+Building..." />
+<img src="avi-ascii.svg" width="340" alt="ASCII Portrait"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Building+DRAKON+AI;React+%7C+Flutter+%7C+ASP.NET;Always+Building..." />
 
 </div>
 
 ---
 
-```text
+```console
 yug@github:~$ neofetch
 
-                  ███████████████████
-
-                  ( ASCII PORTRAIT )
-
-──────────────────────────────────────────
-
-OS         : Gujarat, India
-Role       : Full Stack Developer
-Learning   : AI Agents
-Editor     : VS Code
-Languages  : Python, JS, Dart, C#
-Frontend   : React, Flutter
-Backend    : Flask, ASP.NET
-Database   : Firebase, SQL Server
-Focus      : DRAKON AI
+Name        : Yug Kanasagara
+Role        : Full Stack Developer
+Focus       : AI Agents • Web Apps
+Learning    : React • ASP.NET • AI
+Languages   : Python • JavaScript • Dart • C#
+Frontend    : React • Flutter • TailwindCSS
+Backend     : Flask • ASP.NET • Firebase
+Database    : SQL Server • Firebase
+Projects    : DRAKON AI
+Location    : Gujarat, India
 ```
 
 ---
 
-# ~/projects
+## 🚀 Featured Projects
 
-```bash
+### 🤖 DRAKON AI
 
-📦 DRAKON AI
-│
-├── Local AI Assistant
-├── Ollama Integration
-├── AI Chat
-└── Image Generation
+Local AI assistant powered by Ollama.
 
-```
-
-```bash
-
-📦 College ERP
-
-├── ASP.NET
-├── SQL Server
-├── Authentication
-└── Dashboard
-
-```
-
-```bash
-
-📦 Portfolio
-
-├── React
-├── Framer Motion
-└── TailwindCSS
-
-```
+🔗 https://drakon-mu.vercel.app
 
 ---
 
-# ~/tech-stack
+### 🎓 College ERP
+
+ASP.NET + SQL Server
+
+---
+
+### 🌐 Portfolio
+
+https://yugprotfolio.vercel.app
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,python,flask,nodejs,dotnet,firebase,mysql,git,github,vscode,figma,docker"/>
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,python,flask,dotnet,firebase,nodejs,git,github,vscode,figma"/>
 
 </p>
 
 ---
 
-# ~/github-stats
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YugKanasagara&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YugKanasagara&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=YugKanasagara&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
 ```bash
-
 $ contact
 
-Portfolio : yugportfolio.vercel.app
-
-Email     : yugkanasagara@gmail.com
-
-LinkedIn  : linkedin.com/in/yug-kanasagara
-
-```
-
-```
-Always Building.
-Always Learning.
-Always Shipping.
+🌐 Portfolio : https://yugprotfolio.vercel.app
+📧 Email     : yugkanasagara@gmail.com
+💼 LinkedIn  : https://linkedin.com/in/your-linkedin
 ```
