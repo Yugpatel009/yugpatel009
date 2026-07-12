@@ -78,7 +78,7 @@ Location       Gujarat, India
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YugKanasagara&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yugpatel009&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKanasagara&layout=compact&theme=tokyonight&hide_border=true"/>
 
