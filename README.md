@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Yug Kansagara
+# Yug Kansagara
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Engineer;Building+DRAKON+AI;React+%7C+Flutter+%7C+ASP.NET;Always+Building+Awesome+Projects" />
+Building AI-powered applications, developer tools, and modern web experiences.
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+DRAKON+AI;React+•+ASP.NET+•+Python;Always+learning+something+new" />
 
 </div>
 
@@ -11,57 +13,61 @@
 <table>
 <tr>
 
-<td width="42%" align="center">
+<td width="38%" align="center">
 
 <img src="avi-ascii.svg" width="320" alt="ASCII Portrait"/>
 
 </td>
 
-<td width="58%">
+<td width="62%">
 
-```console
-yug@github:~$ neofetch
+```text
+yug@github
+──────────────────────────────────────────
 
-────────────────────────────────────
+Name        Yug Kansagara
+Username    Yugpatel009
 
-👤 Name        : Yug Kansagara
-💻 Username    : Yugpatel009
-🚀 Role        : Full Stack Developer
-🤖 Focus       : AI • Automation • Web Apps
+Role        Full-Stack Developer
 
-────────────────────────────────────
+Focus
 
-💻 Languages
+• AI Applications
+• Web Engineering
+• Developer Tools
 
-   • Python
-   • JavaScript
-   • C#
-   • Dart
+Currently
 
-⚛️ Frontend
+• Building DRAKON AI
+• College ERP
+• Exploring Local LLMs
 
-   • React
-   • Flutter
-   • TailwindCSS
+Languages
 
-🛠 Backend
+Python
+JavaScript
+C#
+Dart
 
-   • Flask
-   • ASP.NET
-   • Firebase
+Frontend
 
-🗄 Database
+React
+Flutter
+Tailwind CSS
 
-   • SQL Server
-   • Firebase
+Backend
 
-🧠 Currently
+Flask
+ASP.NET
 
-   • Building DRAKON AI
+Database
 
-📍 Location
+SQL Server
+Firebase
 
-   Gujarat, India
+Location
+
+Gujarat, India
 ```
 
 </td>
@@ -71,31 +77,47 @@ yug@github:~$ neofetch
 
 ---
 
-# 🚀 Featured Projects
+# About
 
-### 🤖 DRAKON AI
+I build full-stack applications with a strong focus on clean user interfaces, scalable backend systems, and AI-powered workflows.
 
-> Local AI Assistant powered by Ollama with modern UI.
+My current work revolves around local AI, automation, modern frontend architecture, and developer experience.
+
+---
+
+# Featured Projects
+
+## DRAKON AI
+
+An AI workspace powered by local language models with support for chat, image generation, and automation.
+
+**Stack**
+
+React • Python • Flask • Ollama
 
 🌐 https://drakon-mu.vercel.app/
 
 ---
 
-### 🎓 College ERP
+## College ERP
 
-> ASP.NET + SQL Server based ERP System.
+Academic management system built with ASP.NET and SQL Server.
 
----
-
-### 🌍 Portfolio
-
-> https://yugprotfolio.vercel.app/
+Features include authentication, dashboards, student management, attendance, and reporting.
 
 ---
 
-# ⚡ Tech Stack
+## Portfolio
 
-<p align="center">
+Personal website showcasing projects, experiments, and UI work.
+
+🌐 https://yugprotfolio.vercel.app/
+
+---
+
+# Technologies
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,dart,python,flask,nodejs,dotnet,firebase,mysql,git,github,vscode,figma,docker"/>
 
@@ -103,68 +125,52 @@ yug@github:~$ neofetch
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yugpatel009&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yugpatel009&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel009&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel009&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Yugpatel009&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yugpatel009&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://streak-stats.demolab.com?user=Yugpatel009&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📫 Connect With Me
+# Contact
 
-<p align="center">
+Portfolio
 
-<a href="https://yugprotfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+https://yugprotfolio.vercel.app
 
-<a href="mailto:yugkanasagara@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Email
 
-<a href="https://github.com/Yugpatel009">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+yugkanasagara@gmail.com
 
-</p>
+GitHub
+
+https://github.com/Yugpatel009
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Build. Learn. Repeat."
-
-![](https://komarev.com/ghpvc/?username=Yugpatel009&style=for-the-badge&color=blueviolet)
+*"Build software that people enjoy using."*
 
 </div>
