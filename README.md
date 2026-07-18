@@ -11,117 +11,151 @@ Building AI tools, developer experiences, and modern web applications.
   <a href="https://yugprotfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
   </a>
-  <a href="mailto:yugkansagara@gmail.com">
+  <a href="mailto:yugkanasagara@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
 </div>
 
-<br>
+---
 
 <table>
 <tr>
+
 <td width="40%" align="center">
+
 <img src="./avi-ascii.svg" width="320">
+
 </td>
+
 <td width="60%">
 
 ```text
 yug@github
 ──────────────────────────────
+
 Role
   Full Stack Developer
+
 Focus
   • AI Applications
   • Developer Tools
   • Modern Web Apps
 
+Currently
+  • Building DRAKON AI
+  • College ERP
+  • Learning AI Agents
+
 Frontend
-  React · Flutter · Tailwind CSS
+  React
+  Flutter
+  Tailwind CSS
+
 Backend
-  Python · Flask · ASP.NET
+  Python
+  Flask
+  ASP.NET
+
 Database
-  SQL Server · Firebase
+  SQL Server
+  Firebase
+
 Tools
-  Git · Docker · VS Code · Figma
+  Git
+  Docker
+  VS Code
+  Figma
 ```
 
 </td>
+
 </tr>
 </table>
 
-<br>
+---
 
-## About
+# About
 
-I'm a Computer Science student who enjoys building software that solves real problems. Most of my recent work focuses on AI applications, full-stack development, and developer tools — I like clean interfaces, scalable backends, and features that actually get used.
+I'm a Computer Science student who enjoys building software that solves real problems.
 
-**Currently:**
-- 🧠 Building **DRAKON AI**, a local AI workspace
-- 🎓 Building a **College ERP** system
-- 📚 Learning AI agent frameworks
+Most of my recent work focuses on AI applications, full-stack development, and developer tools. I like building products with clean interfaces, scalable backends, and practical features.
 
-<br>
+---
 
-## Featured Projects
+# Featured Projects
 
-### 🤖 [DRAKON AI](#)
-A local AI workspace powered by Ollama for chatting with LLMs, generating images, and running AI models completely offline — no cloud dependency, no API costs.
+### 🤖 DRAKON AI
 
-`Python` `Ollama` `React` `Local LLMs`
+A local AI workspace powered by Ollama for chatting with LLMs, generating images, and running AI models completely offline.
 
-<br>
+---
 
-### 🎓 [College ERP](#)
-Academic management system for handling day-to-day college operations end to end.
+### 🎓 College ERP
 
-- Student management
-- Attendance tracking
-- Fees management
-- Results processing
-- Role-based authentication
+Academic management system built with ASP.NET and SQL Server.
 
-`ASP.NET` `SQL Server`
+Features include:
 
-<br>
+- Student Management
+- Attendance
+- Fees
+- Results
+- Authentication
 
-### 🌐 [Portfolio](https://yugprotfolio.vercel.app)
-Personal portfolio showcasing projects, UI experiments, and design work.
+---
 
-<br>
+### 🌐 Portfolio
 
-## Tech Stack
+Personal portfolio showcasing projects, UI designs, and experiments.
+
+---
+
+# Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,python,flask,dotnet,firebase,mysql,git,docker,vscode,figma,tailwind"/>
+
 </p>
 
-<br>
+---
 
-## GitHub Stats
+# GitHub
 
 <p align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yugpatel009&show_icons=true&theme=github_dark&hide_border=true"/>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugpatel009&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<br>
+---
 
-## Currently Exploring
+# Current Focus
 
 - Building AI-powered developer tools
-- Local LLM workflows and agentic AI
-- UI/UX design fundamentals
+- Exploring local LLM workflows
+- Improving UI/UX design skills
 - Contributing to open source
 
-<br>
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/Yugpatel009">GitHub</a> •
+<a href="https://yugprotfolio.vercel.app">Portfolio</a> •
+<a href="mailto:yugkanasagara@gmail.com">Email</a>
+
+</p>
+
+---
 
 <div align="center">
-
-### Connect
-
-[GitHub](https://github.com/Yugpatel009) • [Portfolio](https://yugprotfolio.vercel.app) • [Email](mailto:yugkansagara@gmail.com)
 
 *"Build software that people enjoy using."*
 
