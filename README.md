@@ -11,7 +11,7 @@ Building AI tools, developer experiences, and modern web applications.
   <a href="https://yug-rho.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
   </a>
-  <a href="mailto:yugkanasagara@gmail.com">
+  <a href="mailto:demodrago40@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -148,8 +148,8 @@ Personal portfolio showcasing projects, UI designs, and experiments.
 <p align="center">
 
 <a href="https://github.com/Yugpatel009">GitHub</a> •
-<a href="https://yugprotfolio.vercel.app">Portfolio</a> •
-<a href="mailto:yugkanasagara@gmail.com">Email</a>
+<a href="https://yug-rho.vercel.app/">Portfolio</a> •
+<a href="mailto:demodrago40@gmail.com">Email</a>
 
 </p>
 
