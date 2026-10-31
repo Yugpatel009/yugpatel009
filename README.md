@@ -8,7 +8,7 @@ Building AI tools, developer experiences, and modern web applications.
   <a href="https://github.com/Yugpatel009">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
-  <a href="https://yugprotfolio.vercel.app">
+  <a href="https://yug-rho.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:yugkanasagara@gmail.com">
