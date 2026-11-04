@@ -1,8 +1,12 @@
-<div align="center">
-
 # Yug Kansagara
 
-Building AI tools, developer experiences, and modern web applications.
+<div align="center">
+
+Building cybersecurity solutions, AI-powered tools, and modern developer experiences.
+
+<a href="https://github.com/Yugpatel009">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=460&height=40&lines=Cybersecurity+Enthusiast;SIEM+Dashboard+Developer;Security+Automation+Builder;AI+Tools+Developer;Full+Stack+Developer" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="https://github.com/Yugpatel009">
@@ -25,7 +29,7 @@ Building AI tools, developer experiences, and modern web applications.
 
 <td width="40%" align="center">
 
-<img src="./avi-ascii.svg" width="320">
+<img src="./avi-ascii.svg" width="320" alt="Yug ASCII Art">
 
 </td>
 
@@ -36,36 +40,48 @@ yug@github
 ──────────────────────────────
 
 Role
-  Full Stack Developer
+  Computer Engineering Student
 
-Focus
-  • AI Applications
-  • Developer Tools
-  • Modern Web Apps
+Primary Focus
+  • Cybersecurity
+  • SIEM & Security Monitoring
+  • Threat Detection
+  • Security Automation
 
-Currently
-  • Building DRAKON AI
-  • College ERP
-  • Learning AI Agents
+Currently Building
+  • SIEM Dashboard
+  • Automatic Server Log Agent
+  • DRAKON AI
+  • Forge CLI Agent
+
+Security
+  Linux
+  Kali Linux
+  Log Analysis
+  Network Security
 
 Frontend
   React
+  Next.js
   Flutter
   Tailwind CSS
 
 Backend
   Python
   Flask
-  ASP.NET
+  Node.js
+  NestJS
 
 Database
-  SQL Server
+  PostgreSQL
+  MongoDB
   Firebase
+  SQL Server
 
-Tools
-  Git
+AI & Tools
+  Ollama
   Docker
-  VS Code
+  Git
   Figma
 ```
 
@@ -78,37 +94,87 @@ Tools
 
 # About
 
-I'm a Computer Science student who enjoys building software that solves real problems.
+I'm a Computer Engineering student currently studying at **CHARUSAT (Charotar University of Science and Technology)**, passionate about Cybersecurity, Security Operations, and building intelligent security solutions.
 
-Most of my recent work focuses on AI applications, full-stack development, and developer tools. I like building products with clean interfaces, scalable backends, and practical features.
+My primary focus is **Cybersecurity**, particularly SIEM (Security Information and Event Management), security monitoring, log analysis, threat detection, incident response, and security automation.
+
+I'm currently exploring and building projects such as **SIEM Dashboard and Automatic Server Log Agent**, focusing on collecting server logs from Linux environments, detecting suspicious activities, and visualizing security events through centralized dashboards.
+
+Alongside cybersecurity, I also enjoy developing AI-powered applications, experimenting with local LLMs, building developer tools, and full-stack engineering.
+
+My goal is to build practical security tools that help make systems smarter, safer, and more resilient.
 
 ---
 
 # Featured Projects
 
+### 🛡️ SIEM Dashboard & Automatic Server Log Agent
+
+A security monitoring project focused on centralized server log collection, security event analysis, and threat visibility.
+
+Features:
+- Linux Server Log Collection
+- Automatic Log Agent (Python)
+- Centralized SIEM Dashboard
+- Security Event Monitoring
+- Suspicious Activity Detection
+- Linux-to-Dashboard Communication
+- Docker-Based Deployment
+
 ### 🤖 DRAKON AI
 
-A local AI workspace powered by Ollama for chatting with LLMs, generating images, and running AI models completely offline.
+A local AI workspace powered by Ollama, designed to bring AI capabilities directly to your machine.
 
----
+Features:
+- Local LLM Integration
+- AI Chat Interface
+- ComfyUI Image Generation
+- Local Model Management
+- AI-Powered Developer Workflows
 
-### 🎓 College ERP
+### ⚡ Forge CLI Agent
 
-Academic management system built with ASP.NET and SQL Server.
+An AI-powered command-line assistant designed to help developers interact with their projects.
 
-Features include:
+Features:
+- AI-Powered Code Assistance
+- Project File Analysis
+- File Creation and Editing
+- Shell Command Execution
+- Controlled Agent Workflows
 
-- Student Management
-- Attendance
-- Fees
-- Results
-- Authentication
+### 🔀 GitPilot
 
----
+An AI-powered Git merge conflict assistant designed to simplify pull request conflict resolution.
+
+Features:
+- GitHub Integration
+- Merge Conflict Detection
+- AI-Assisted Conflict Resolution
+- Automated PR Workflows
+
+### 🎓 IQ Portal
+
+An interview preparation platform designed to help students practice technical questions and improve their programming knowledge.
 
 ### 🌐 Portfolio
 
-Personal portfolio showcasing projects, UI designs, and experiments.
+Personal portfolio showcasing my projects, experiments, development journey, and technical interests.
+
+---
+
+# Cybersecurity Interests
+
+- Security Information and Event Management (SIEM)
+- Security Operations Center (SOC)
+- Linux Security & Administration
+- Network Security
+- Log Analysis and Monitoring
+- Threat Detection and Incident Response
+- Security Automation
+- Vulnerability Assessment
+- Ethical Hacking
+- AI-Powered Security Solutions
 
 ---
 
@@ -116,13 +182,38 @@ Personal portfolio showcasing projects, UI designs, and experiments.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,python,flask,dotnet,firebase,mysql,git,docker,vscode,figma,tailwind"/>
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash,docker,react,nextjs,flutter,nodejs,nestjs,flask,dotnet,postgres,mongodb,firebase,mysql,git,vscode,figma,tailwind"/>
 
 </p>
 
 ---
 
-# GitHub
+# Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&bg_color=0d1117&color=38bdf8&line=22d3ee&point=e6edf3&area=true&area_color=0e7490&hide_border=true&radius=8" alt="Yug's GitHub activity graph" />
+
+</div>
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -136,27 +227,26 @@ Personal portfolio showcasing projects, UI designs, and experiments.
 
 # Current Focus
 
-- Building AI-powered developer tools
-- Exploring local LLM workflows
-- Improving UI/UX design skills
-- Contributing to open source
+- Building SIEM dashboards and security monitoring systems.
+- Developing automatic Linux server log collection agents.
+- Exploring SOC operations, threat detection, and incident response.
+- Learning network security and ethical hacking.
+- Building AI-powered cybersecurity tools.
+- Exploring Ollama and local LLM architectures.
+- Improving backend engineering and system design skills.
 
 ---
 
-# Connect
+# Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Yugpatel009">GitHub</a> •
 <a href="https://yug-rho.vercel.app/">Portfolio</a> •
 <a href="mailto:demodrago40@gmail.com">Email</a>
 
-</p>
+<br><br>
 
----
-
-<div align="center">
-
-*"Build software that people enjoy using."*
+*"Secure systems. Build intelligently. Create without limits."*
 
 </div>
