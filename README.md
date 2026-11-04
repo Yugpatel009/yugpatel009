@@ -99,9 +99,19 @@ AI-powered Git merge conflict detection and resolution assistant.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Yugpatel009/Yugpatel009/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Yugpatel009/Yugpatel009/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Yugpatel009/Yugpatel009/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
 </picture>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yugpatel009&bg_color=0d1117&color=38bdf8&line=22d3ee&point=e6edf3&area=true&hide_border=true" alt="GitHub Activity Graph"/>
